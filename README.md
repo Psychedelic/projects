@@ -1,6 +1,6 @@
 # Community Proposals - Psychedelic
 
-This repository holds a record of all the discussed community proposals derived from the Psychedelic DAO organization, the developer community on the Internet Computer, and other participating groups, actors, or companies in the ecosystem seeking to propose improvements, new standards, or technology explorations on the Internet Computer blockchain network.
+This repository holds a record of all the discussed community proposals derived from the **Psychedelic DAO organization, the developer community on the Internet Computer, and other participating groups or actors in the ecosystem** seeking to propose improvements, new standards, or technology explorations on the Internet Computer blockchain network.
 
 ## The First Proposal - Principal IDs as Unique Identifiers.
 

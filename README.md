@@ -4,7 +4,7 @@ This repository holds a record of all the discussed community proposals derived 
 
 ## The First Proposal - Principal IDs as Unique Identifiers.
 
-You can find the [first proposal here!](proposals\principal-ids-as-universal-identifiers.md) 
+You can find the [first proposal here!](https://github.com/Psychedelic-DAO/proposals/blob/main/proposals/principal-ids-as-universal-identifiers.md) 
 
 The community's first conjoint proposal is a standard for using Principal ID’s as the universal unique identifier for the Internet Computer, instead of using Account ID’s, Wallet ID’s, User ID’s, or any other additional unique identifier that is currently being used for ICP, tokens, apps, cycles, etc.. 
 

@@ -11,6 +11,6 @@ This repository represents all the **projects, platforms, and Open Internet Serv
 - [Cycles Token (XTC)](https://dank.ooo/xtc/) - A cycles token by Dank that allows users & developers to hold cycles and develop with them with just a Principal ID.
 - [DAB](https://dab.ooo/) - DAB is an open internet service for NFT, Token, Canister, and Dapp registries.
 - [Fleek.co](https://fleek.co/) - A Web3 storage, hosting, and development suite.
-- [Sonic.ooo](https://sonic.ooo/) - wap tokens, earn fees as a liquidity provider, & build on the Internet Computer’s AMM.
+- [Sonic.ooo](https://sonic.ooo/) - Swap tokens, earn fees as a liquidity provider, & build on the Internet Computer’s AMM.
 
 
